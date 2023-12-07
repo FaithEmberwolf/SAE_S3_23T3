@@ -1,3 +1,35 @@
 version https://git-lfs.github.com/spec/v1
 oid sha256:458f9ed5f4f75fa4616f2a32f6adeba14575db90822d22958415f78bb1317aa1
 size 2059
+*.vs filter=lfs diff=lfs merge=lfs -text
+*.slo filter=lfs diff=lfs merge=lfs -text
+*.lo filter=lfs diff=lfs merge=lfs -text
+*.o filter=lfs diff=lfs merge=lfs -text
+*.obj filter=lfs diff=lfs merge=lfs -text
+*.gch filter=lfs diff=lfs merge=lfs -text
+*.pch filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
+*.dylib filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.mod filter=lfs diff=lfs merge=lfs -text
+*.lai filter=lfs diff=lfs merge=lfs -text
+*.la filter=lfs diff=lfs merge=lfs -text
+*.a filter=lfs diff=lfs merge=lfs -text
+*.lib filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+*.out filter=lfs diff=lfs merge=lfs -text
+*.app filter=lfs diff=lfs merge=lfs -text
+*.ipa filter=lfs diff=lfs merge=lfs -text
+*.xcodeproj filter=lfs diff=lfs merge=lfs -text
+*.xcworkspace filter=lfs diff=lfs merge=lfs -text
+*.sln filter=lfs diff=lfs merge=lfs -text
+*.opensdf filter=lfs diff=lfs merge=lfs -text
+*.suo filter=lfs diff=lfs merge=lfs -text
+*.sdf filter=lfs diff=lfs merge=lfs -text
+*.VC.db filter=lfs diff=lfs merge=lfs -text
+*.VC.opendb filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.tga filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
+*.ico filter=lfs diff=lfs merge=lfs -text
+*_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
